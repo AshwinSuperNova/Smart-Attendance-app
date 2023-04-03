@@ -33,4 +33,4 @@ to connect firebase you must create a new firebase android project in firebase..
 
 ![IMG-20230320-WA0017](https://user-images.githubusercontent.com/126334039/229571865-ae5d3b7e-9d18-4cf1-b7dd-aa176036baf6.jpg)
 
-check this video for firebase:https -> : //youtu.be/_7tDSHby1LE
+check this video for firebase:= > https://youtu.be/_7tDSHby1LE
