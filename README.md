@@ -11,4 +11,4 @@ you must install androidstudio and a emulator or connect your mobile by enabling
 To run this app ...put flutter pub get dependencies to download the dependencies which will be displayed in android studio "pub get".this will appaer when you open pubspec.yaml file
 and run main.dart file to run this application.
 to connect firebase you must create a new firebase android project in firebase...
-<img src="Screenshots/IMG-20230320-WA0001" width="200" height="400">
+<img src="attendanceapp/Screenshots/IMG-20230320-WA0001" width="200" height="400">
